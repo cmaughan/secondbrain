@@ -1,6 +1,6 @@
 # Thread Pool Waiting
 
-Submitting work to a thread pool and waiting for the submitted tasks to complete:
+Submitting work to a #threadpool and waiting for the submitted tasks to complete:
 
 ```cpp
 struct ThreadData
