@@ -4,3 +4,5 @@
 - [[Live Coding]]#
 - [[Music Synthesis]]#
 - [[Misc Links]]
+
+[[z:zettels?tag=blog/**&timeline&cf]]
