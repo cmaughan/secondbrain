@@ -1,0 +1,98 @@
+{
+  "main": {
+    "id": "05bd35239502ca1f",
+    "type": "split",
+    "children": [
+      {
+        "id": "df4107028134e7c6",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "dbdbb71d0bcaa55c",
+    "type": "split",
+    "children": [
+      {
+        "id": "ff0da85340cce7b6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cbb432b9818f9dda",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "ac474b78f62bf883",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0fbf6d8012525870",
+    "type": "split",
+    "children": [
+      {
+        "id": "56f972efcbeced03",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4944e2e7e98403c1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "df4107028134e7c6",
+  "lastOpenFiles": [
+    "Live Coding/Live Coding.md",
+    "Music Synthesis/Synth Performance.md",
+    "Programming/Programming.md",
+    "Programming/Thread Pool Waiting.md",
+    "Music Synthesis/Music Synthesis.md",
+    "~/static/synth_perf_first.png.md",
+    "static/synth_perf_workers.png",
+    "static/synth_perf_view.png",
+    "static/synth_perf_thread_wakeup.png",
+    "static/synth_perf_first.png"
+  ]
+}
