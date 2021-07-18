@@ -1,5 +1,3 @@
-- [[Lisp Languages]]
-- [[Musical Patterns]]#
 - **Sonic Pi Forum** https://in-thread.sonic-pi.net/
 - **Sonic Pi On Stack Overflow Blog** https://stackoverflow.blog/2020/01/29/the-live-coding-language-that-lets-you-be-an-actual-rock-star/
 - **Kortex** https://mindbuffer.net/kortex
