@@ -1,0 +1,44 @@
+- [[Lisp Languages]]
+- [[Musical Patterns]]
+- **Sonic Pi Forum** https://in-thread.sonic-pi.net/
+- **Sonic Pi On Stack Overflow Blog** https://stackoverflow.blog/2020/01/29/the-live-coding-language-that-lets-you-be-an-actual-rock-star/
+- **Kortex** https://mindbuffer.net/kortex
+- **Imi Tone** https://www.kickstarter.com/projects/evanbalster/imitone-mind-to-melody
+- **Grid Sound** https://gridsound.com/#/
+- **Audio** Vis https://github.com/willianjusten/awesome-audio-visualization
+- **Software for Graphics Thread on lines** https://llllllll.co/t/software-to-create-procedural-graphics/27660/10
+- **Hydra Book** https://naotohieda.com/blog/hydra-book/
+- **Interactive Shader Format** https://www.interactiveshaderformat.com/
+- **Lua + OSC bindings for Open Frameworks** https://github.com/danomatika/loaf
+- **Ear Sketch, Georgia Tech** https://earsketch.gatech.edu/landing/#/
+- **xi ~LiveCode** https://github.com/xi-livecode/xi
+- **Sequencer, unknown demo HMH** https://www.youtube.com/watch?v=x7c-9dXZouo&feature=youtu.be
+- **Sketch Synth** https://github.com/jeonghopark/SketchSynth-Simple
+- **Live coding in Rust** https://nannou.cc/
+- **Kode Life** https://hexler.net/products/kodelife
+- **Future Of Coding projects** https://github.com/pel-daniel/mind-bicycles
+- **Alive Coding** https://s-ol.nu/alivecoding
+- **Max MSP** https://cycling74.com/products/max/
+- **WDL-OL for VST** https://github.com/justinfrankel/WDL
+- **Pure Data** http://msp.ucsd.edu/Pd_documentation/
+- **Layered Graph Drawing** https://en.wikipedia.org/wiki/Layered_graph_drawing
+- **Automatic graph layout** https://en.wikipedia.org/wiki/Microsoft_Automatic_Graph_Layout
+- **CEPL** https://github.com/cbaggers/cepl
+- **Projection Boxes** http://cseweb.ucsd.edu/~lerner/papers/projection-boxes-chi2020.pdf
+- **Glamorous Toolkit** https://gtoolkit.com/
+- **Cellular Automation Demo** https://movablefeastmachine.org/
+- **Shader Toy launcher for Vulkan** https://github.com/danilw/vulkan-shadertoy-launcher
+- **Shad2: Worse than Shaders** https://jmickle66666666.github.io/blog/2020/06/27/SHAD2.html
+- **MPS DSL by ~JetBrains** https://www.jetbrains.com/mps/
+- **~MicroUI** https://github.com/cmaughan/microui
+- **Gray Crawford VR Tools** https://www.graycrawford.com/
+- **Shader Chain** https://connorbell.itch.io/shaderchain
+- **Jeskola Buzz** http://jeskola.net/buzz/
+- **Gibber** http://www.charlie-roberts.com/pubs/gibber_music_2015_ICMC.pdf
+- **Tiny Structure Editors** http://people.cs.uchicago.edu/~rchugh/static/papers/vlhcc20-tse.pdf
+- **NodeBox** https://www.nodebox.net/node/
+- **AudioMulch** http://www.audiomulch.com/
+- **~XenPaper** - text based microtonal sequencer https://xenpaper.com/
+- **Glicol** - Rust live coding in the brower https://glicol.org
+- **Nodal** - Graph based music network https://nodalmusic.com/
+- **Nodes.io** - Node graph editor https://nodes.io/story/
