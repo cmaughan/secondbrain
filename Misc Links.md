@@ -33,6 +33,11 @@
 - **Citrine** https://citrine-lang.org/en.ctr
 - **Fae** https://www.fae.dev/
 - **Programming Languages for Enthusiasts** https://github.com/prathyvsh/pl-catalog
+- **Practical Common Lisp** http://www.gigamonkeys.com/book/
+- **Fe** https://github.com/rxi/fe
+- **Common Lisp Music** https://ccrma.stanford.edu/software/snd/snd/clm.html
+- **CLM Tutorial** https://ccrma.stanford.edu/software/clm/compmus/clm-tutorials/toc.html
+- **Article about Finite Automata** https://swtch.com/~rsc/regexp/regexp1.html
 
 ## Blogs
 https://raphlinus.github.io/
@@ -45,3 +50,17 @@ https://raphlinus.github.io/
 
 ## VST
 - **VST** https://labs.spitfireaudio.com/
+
+## Tools
+- **Process Hacker** https://processhacker.sourceforge.io/downloads.php
+- **Internet speed** https://fast.com/en/gb/ 
+- **DPI** http://dpi.lv/
+- **GraphToy** https://www.iquilezles.org/apps/graphtoy/
+
+## Blogs on Tools
+https://thesephist.com/posts/tools/
+
+## Music
+- **LaunchPad** https://d2xhy469pqj8rc.cloudfront.net/sites/default/files/novation/downloads/4080/launchpad-programmers-reference.pdf
+- **Programming** https://homepages.abdn.ac.uk/d.j.benson/pages/dx7/manuals/prgrmdx7.pdf
+- **Group Discussion on Fine Tune/Corse** https://yamahadx.yahoogroups.narkive.com/gS4pivQC/question-04-detune

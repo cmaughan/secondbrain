@@ -1,0 +1,29 @@
+# Thread Pool Waiting
+
+Submitting work to a thread pool and waiting for the submitted tasks to complete:
+
+```cpp
+struct ThreadData
+{
+    std::mutex mut;
+    std::condition_variable cv;
+    std::atomic<int> counter = 0;
+};
+ThreadData msg;
+
+for(int i =0; i < 10; i++) {  // Submit some work
+msg.counter++;
+threadPool.enqueue([&msg](){
+   // < do work here >
+
+   // Notify finished
+   std::lock_guard<std::mutex> lk(msg.mut);
+   msg.counter--;
+   msg.cv.notify_all();
+});
+}
+
+// Wait for work to finish
+std::unique_lock<std::mutex> lock(msg.mut);
+msg.cv.wait(lock, [&]() { return msg.counter == 0; }); 
+```
