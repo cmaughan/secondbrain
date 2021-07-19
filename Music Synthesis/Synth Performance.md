@@ -27,3 +27,9 @@ Some of this work is actually unnecessary too; the small blocks tacked on the en
 http://www.rossbencina.com/code/real-time-audio-programming-101-time-waits-for-nothing
 
 http://www.rossbencina.com/code/supercollider-internals-book-chapter
+
+<div class="ui section divider"></div>
+<section id="socialMediaLinks"></section>
+<div class="ui section divider"></div>
+<div id="disqus_thread"></div>
+

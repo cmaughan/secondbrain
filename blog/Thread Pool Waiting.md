@@ -36,3 +36,8 @@ threadPool.enqueue([&msg](){
 std::unique_lock<std::mutex> lock(msg.mut);
 msg.cv.wait(lock, [&]() { return msg.counter == 0; }); 
 ```
+
+<div class="ui section divider"></div>
+<section id="socialMediaLinks"></section>
+<div class="ui section divider"></div>
+<div id="disqus_thread"></div>
