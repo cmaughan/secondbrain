@@ -1,6 +1,7 @@
 ## Random
 - **A Non Linear Writing System** https://s.ai/nlws/
-- **Newsletter on tech/AI, etc. ** https://roadtoreality.substack.com/
+- **Newsletter on tech/AI, etc.** https://roadtoreality.substack.com/
+ 
 ## Data Visualization
 - **Graphs and Code to Represent them** https://www.data-to-viz.com/
 - **Catalogue of Notation through the ages** https://github.com/prathyvsh/notation
