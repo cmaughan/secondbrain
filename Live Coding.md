@@ -31,11 +31,11 @@
 - [Gray Crawford VR Tools](https://www.graycrawford.com/)
 - [Shader Chain](https://connorbell.itch.io/shaderchain)
 - [Jeskola Buzz](http://jeskola.net/buzz/)
-- [Gibber](http://www.charlie-roberts.com/pubs/gibber_music_2015_ICMC.pdf)
+- [Gibber](http://www.charlie-roberts.com/pubs/gibber_music_2015_ICMC.pdf) is a javascript based live coding environment in the browser
 - [Tiny Structure Editors](http://people.cs.uchicago.edu/~rchugh/static/papers/vlhcc20-tse.pdf)
 - [NodeBox](https://www.nodebox.net/node/)
 - [AudioMulch](http://www.audiomulch.com/)
 - A text-based micro tonal synthesizer: [XenPaper](https://xenpaper.com/)
-- [Glicol](- Rust live coding in the brower https://glicol.org)
-- [Nodal](- Graph based music network https://nodalmusic.com/)
-- [Nodes.io](- Node graph editor https://nodes.io/story/)
+- [Glicol](https://glicol.org) - Rust live coding in the browser 
+- [Nodal](https://nodalmusic.com/), a Graph based music network 
+- [Nodes.io](https://nodes.io/story/) a node graph editor for interactive visualizations
