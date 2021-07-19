@@ -148,24 +148,6 @@ html {
 
 </style>
 
-<!-- replace logo  -->
-<script>
-    window.addEventListener("load", function(){
-        let element = document.querySelector('div.footer-version > div > a > img[alt="logo"]')
-        let parent = element.parentNode.parentNode.parentNode
-        // element.remove()
-        console.log(parent)
-
-        let p = document.createElement("p")
-        let n = document.createTextNode("© 2021 Christopher Maughan")
-        p.appendChild(n)
-        p.style.height = "80px";
-        parent.appendChild(n)
-        parent.replaceChild(p, parent.firstChild)
-        parent.appendChild(element.parentNode, p)
-    });
-</script>
-
 <!-- mermaidjs -->
 <script src="https://cdn.jsdelivr.net/npm/mermaid/dist/mermaid.min.js"></script>
 <script>window.addEventListener("load", mermaid.initialize({startOnLoad:true}))</script>
