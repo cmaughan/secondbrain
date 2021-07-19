@@ -1,3 +1,2 @@
 - **My Synthesizer** [[Synth Performance]]#
-- [Envelopes](http://www.martin-finke.de/blog/articles/audio-plugins-011-envelopes/)
-- [Envelope Generators](https://www.earlevel.com/main/2013/06/01/envelope-generators/)
+- Two articles on envelope generators: [Envelopes](http://www.martin-finke.de/blog/articles/audio-plugins-011-envelopes/), and [Envelope Generators](https://www.earlevel.com/main/2013/06/01/envelope-generators/)
