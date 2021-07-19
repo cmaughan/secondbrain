@@ -97,8 +97,7 @@ If you want to learn more about language parsing, the LLVM tutorial is quite nic
 
 [LLVM Tutorial](https://llvm.org/docs/tutorial/)
 
-``` 
-
+```
 digraph AST 
 {
 Id_32 [label = "P:__anon__(), Fn:="];
