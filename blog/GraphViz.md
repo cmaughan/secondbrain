@@ -38,7 +38,7 @@ digraph AST
 
 It is trivial to write the above to debug output; assuming you can convert your node ID to a valid string, and you have a friendly name for it:
 
-``` 
+```cpp
 std::ostringstream str;
 str << "digraph AST\n" 
 
@@ -65,26 +65,15 @@ The great thing about this is you don't even have to install graphviz.  Just go 
 Here's what happens if you paste the digraph into webgraphviz:
 
 ```{.graphviz}
-std::ostringstream str;
-str << "digraph AST\n" 
-
-// Make the labels: not usually necessary
-for(auto& node : nodes)
-    str << to_string(node.id()) << " [label = \"" << node.name() << "\"];\n";
-
-// Make the connections (every node to every child it has)
-for auto& node : nodes)
+digraph AST 
 {
-    for(auto& child : node.children)
-    {
-        str << to_string(node.id()) << "->" << to_string(child.id()) << ";\n";
-    }
+    Node_1 [label = "My Node 1"];
+    Node_3 [label = "My Node 3"];
+    Node_Out [label = "My Node Out"];
+
+    Node_1 -> Node_Out;
+    Node_3 -> Node_Out;
 }
-
-str << "}\n";
-
-// Log it however you want
-std::cout << str.str();
 ```
 
 Nice! An easy way to visualize data relationships in your code.... done.  GraphViz has many more features, and you can play with some examples on the above site too.  As a side-note, the graph above is automatically generated inside the blogging platform I'm using (neuron), so it is easy to add to blog posts too.
@@ -123,8 +112,7 @@ Id_28->Id_27;
 ```
 
 ```{.graphviz}
-digraph AST 
-{
+digraph AST {
 Id_32 [label = "P:__anon__(), Fn:="];
 Id_30 [label = "="];
 Id_22 [label = "c1"];
