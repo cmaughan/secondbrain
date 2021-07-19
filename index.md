@@ -1,13 +1,11 @@
 # Chris Maughan's Second Brain
 
-- [[blog] Blog Entries]#
 - Notes on [[Programming]]#
 - [[Live Coding]]# links
 - Notes on [[Music Synthesis]]#
 - [[Misc Links]]#
 
-All posts tagged with blog
-
+- Just the [[blog|Blog Entries]#, grouped here by tag...
 [[z:zettels?tag=blog/**&timeline&cf]]
 <section id="subscriptionLinks"></section>
 
