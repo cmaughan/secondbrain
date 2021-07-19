@@ -15,4 +15,4 @@
 
 <div class="ui section divider"></div>
 
-<div id="commento"></div>
+<div id="disqus_thread"></div>
