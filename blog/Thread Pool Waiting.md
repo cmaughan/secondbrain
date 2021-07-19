@@ -1,3 +1,12 @@
+---
+date: 2021-07-19
+tags:
+  - blog
+  - threads
+  - thread_pool
+  - c++
+---
+
 # Thread Pool Waiting
 
 Submitting work to a #threadpool and waiting for the submitted tasks to complete:

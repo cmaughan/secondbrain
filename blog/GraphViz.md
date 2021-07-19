@@ -64,9 +64,30 @@ std::cout << str.str();
 The great thing about this is you don't even have to install graphviz.  Just go to http://webgraphviz.com and paste your text.  You can download graphviz instead if you need to keep your data structure private, but I mostly just paste my tests into the site.
 Here's what happens if you paste the digraph into webgraphviz:
 
-![Simple Example](/img/blog/graphviz/simple_nodes.png)
+```{.graphviz}
+std::ostringstream str;
+str << "digraph AST\n" 
 
-Nice! An easy way to visualize data relationships in your code.... done.  GraphViz has many more features, and you can play with some examples on the above site too.j
+// Make the labels: not usually necessary
+for(auto& node : nodes)
+    str << to_string(node.id()) << " [label = \"" << node.name() << "\"];\n";
+
+// Make the connections (every node to every child it has)
+for auto& node : nodes)
+{
+    for(auto& child : node.children)
+    {
+        str << to_string(node.id()) << "->" << to_string(child.id()) << ";\n";
+    }
+}
+
+str << "}\n";
+
+// Log it however you want
+std::cout << str.str();
+```
+
+Nice! An easy way to visualize data relationships in your code.... done.  GraphViz has many more features, and you can play with some examples on the above site too.  As a side-note, the graph above is automatically generated inside the blogging platform I'm using (neuron), so it is easy to add to blog posts too.
 
 Here is an example from the code snippet above.  You are seeing the finished, correct version of the AST tree here.  The interesting part of this exercise in visualizing my code was that the '|' and '.' operators in the graph were swapped - indicating that the '|' had higher precedence in my syntax parser than the '.'.  Fixing the preference order of the operators did not immediately fix the problem either, becuase I had actually broken the AST parsing of the operators.
 
