@@ -160,9 +160,9 @@ html {
         let n = document.createTextNode("© 2021 Christopher Maughan")
         p.appendChild(n)
         p.style.height = "80px";
-        // parent.appendChild(n)
-        //parent.replaceChild(p, parent.firstChild)
-        // parent.replaceChild(element.parentNode, p)
+        parent.appendChild(n)
+        parent.replaceChild(p, parent.firstChild)
+        parent.appendChild(element.parentNode, p)
     });
 </script>
 
@@ -208,12 +208,6 @@ html {
 
 <script async defer src="https://scripts.simpleanalyticscdn.com/latest.js"></script>
 <noscript><img src="https://queue.simpleanalyticscdn.com/noscript.gif" alt=""/></noscript>
-
-<!-- Calendly badge widget begin -->
-<link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
-<script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript" async></script>
-<script type="text/javascript">window.onload = function() { Calendly.initBadgeWidget({ url: 'https://calendly.com/rc-alex-s/open-office', text: 'Schedule time with me', color: '#00a2ff', textColor: '#ffffff', branding: true }); }</script>
-<!-- Calendly badge widget end -->
 
 <script>
     /**

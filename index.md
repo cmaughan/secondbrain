@@ -1,4 +1,4 @@
-# Chris Maughan's Wiki
+# Chris Maughan's Second Brain
 
 - [[Programming]]#
 - [[Live Coding]]#
