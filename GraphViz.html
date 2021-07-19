@@ -28,7 +28,7 @@ window.addEventListener("load", function(){
 
     Node_1 -&gt; Node_Out;
     Node_3 -&gt; Node_Out;
-}</code></pre><p>It is trivial to write the above to debug output; assuming you can convert your node ID to a valid string, and you have a friendly name for it:</p><pre><code class="language-none">std::ostringstream str;
+}</code></pre><p>It is trivial to write the above to debug output; assuming you can convert your node ID to a valid string, and you have a friendly name for it:</p><pre><code class="cpp language-cpp">std::ostringstream str;
 str &lt;&lt; &quot;digraph AST\n&quot; 
 
 // Make the labels: not usually necessary
@@ -47,26 +47,15 @@ for auto&amp; node : nodes)
 str &lt;&lt; &quot;}\n&quot;;
 
 // Log it however you want
-std::cout &lt;&lt; str.str();</code></pre><p>The great thing about this is you don’t even have to install graphviz. Just go to <a href="http://webgraphviz.com">http://webgraphviz.com</a> and paste your text. You can download graphviz instead if you need to keep your data structure private, but I mostly just paste my tests into the site. Here’s what happens if you paste the digraph into webgraphviz:</p><pre><code class="graphviz language-graphviz">std::ostringstream str;
-str &lt;&lt; &quot;digraph AST\n&quot; 
-
-// Make the labels: not usually necessary
-for(auto&amp; node : nodes)
-    str &lt;&lt; to_string(node.id()) &lt;&lt; &quot; [label = \&quot;&quot; &lt;&lt; node.name() &lt;&lt; &quot;\&quot;];\n&quot;;
-
-// Make the connections (every node to every child it has)
-for auto&amp; node : nodes)
+std::cout &lt;&lt; str.str();</code></pre><p>The great thing about this is you don’t even have to install graphviz. Just go to <a href="http://webgraphviz.com">http://webgraphviz.com</a> and paste your text. You can download graphviz instead if you need to keep your data structure private, but I mostly just paste my tests into the site. Here’s what happens if you paste the digraph into webgraphviz:</p><pre><code class="graphviz language-graphviz">digraph AST 
 {
-    for(auto&amp; child : node.children)
-    {
-        str &lt;&lt; to_string(node.id()) &lt;&lt; &quot;-&gt;&quot; &lt;&lt; to_string(child.id()) &lt;&lt; &quot;;\n&quot;;
-    }
-}
+    Node_1 [label = &quot;My Node 1&quot;];
+    Node_3 [label = &quot;My Node 3&quot;];
+    Node_Out [label = &quot;My Node Out&quot;];
 
-str &lt;&lt; &quot;}\n&quot;;
-
-// Log it however you want
-std::cout &lt;&lt; str.str();</code></pre><p>Nice! An easy way to visualize data relationships in your code…. done. GraphViz has many more features, and you can play with some examples on the above site too. As a side-note, the graph above is automatically generated inside the blogging platform I’m using (neuron), so it is easy to add to blog posts too.</p><p>Here is an example from the code snippet above. You are seeing the finished, correct version of the AST tree here. The interesting part of this exercise in visualizing my code was that the ‘|’ and ‘.’ operators in the graph were swapped - indicating that the ‘|’ had higher precedence in my syntax parser than the ‘.’. Fixing the preference order of the operators did not immediately fix the problem either, becuase I had actually broken the AST parsing of the operators.</p><p>Short story; visualize what you are doing - it can save a lot of time! It is certainly worth the 10 minutes of effort it takes to output your data as an image.</p><p>If you want to learn more about language parsing, the LLVM tutorial is quite nice - and a good refresher for me!:</p><p><a href="https://llvm.org/docs/tutorial/">LLVM Tutorial</a></p><pre><code class="language-none">digraph AST 
+    Node_1 -&gt; Node_Out;
+    Node_3 -&gt; Node_Out;
+}</code></pre><p>Nice! An easy way to visualize data relationships in your code…. done. GraphViz has many more features, and you can play with some examples on the above site too. As a side-note, the graph above is automatically generated inside the blogging platform I’m using (neuron), so it is easy to add to blog posts too.</p><p>Here is an example from the code snippet above. You are seeing the finished, correct version of the AST tree here. The interesting part of this exercise in visualizing my code was that the ‘|’ and ‘.’ operators in the graph were swapped - indicating that the ‘|’ had higher precedence in my syntax parser than the ‘.’. Fixing the preference order of the operators did not immediately fix the problem either, becuase I had actually broken the AST parsing of the operators.</p><p>Short story; visualize what you are doing - it can save a lot of time! It is certainly worth the 10 minutes of effort it takes to output your data as an image.</p><p>If you want to learn more about language parsing, the LLVM tutorial is quite nice - and a good refresher for me!:</p><p><a href="https://llvm.org/docs/tutorial/">LLVM Tutorial</a></p><pre><code class="language-none">digraph AST 
 {
 Id_32 [label = &quot;P:__anon__(), Fn:=&quot;];
 Id_30 [label = &quot;=&quot;];
@@ -87,8 +76,7 @@ Id_26-&gt;Id_23;
 Id_26-&gt;Id_24;
 Id_26-&gt;Id_25;
 Id_28-&gt;Id_27;
-}</code></pre><pre><code class="graphviz language-graphviz">digraph AST 
-{
+}</code></pre><pre><code class="graphviz language-graphviz">digraph AST {
 Id_32 [label = &quot;P:__anon__(), Fn:=&quot;];
 Id_30 [label = &quot;=&quot;];
 Id_22 [label = &quot;c1&quot;];
