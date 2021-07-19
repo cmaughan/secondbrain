@@ -96,16 +96,11 @@ html {
         var socialButtons = document.getElementById("subscriptionLinks");
 
         socialButtons.innerHTML +=
-            "<a id='rss' title='Subscribe to RSS feed' class='ui rss button'><i class='rss square icon'></i> RSS</a> <a id='mail' title='Subscribe to mailing list' class='ui paper plane button'><i class='paper plane icon'></i> Subscribe</a>"
+            "<a id='rss' title='Subscribe to RSS feed' class='ui rss button'><i class='rss square icon'></i> RSS</a>"
 
         document.getElementById("rss").addEventListener("click", function(e) {
             window.open('https://chrismaughan.com/secondbrain/blog.xml');
         });
-
-        /*document.getElementById("mail").addEventListener("click", function(e) {
-            window.open('https://buttondown.email/cmaughan');
-        });
-        */
 
     })
 </script>
@@ -139,11 +134,6 @@ html {
 #subscriptionLinks {
     text-align: center;
 
-}
-
-#subscriptionLinks .ui.paper.plane.button {
-    background: #5A90E0;
-    color: #ffffff;
 }
 
 </style>
