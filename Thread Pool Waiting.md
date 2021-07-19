@@ -1,7 +1,7 @@
 ---
 date: 2021-07-19
 tags:
-  - blog
+  - programming
   - threads
   - thread_pool
   - c++
