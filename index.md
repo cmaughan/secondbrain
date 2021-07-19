@@ -8,7 +8,7 @@ This whole thing is just a bunch of markdown text, converted to a website by Neu
 - Notes on [[Music Synthesis]]#
 - [[Misc Links]]#
 
-- Just the [[blog|Blog Entries]#, grouped here by tag...
+- Just the [[blog|Blog Entries]]#, grouped here by tag...
 [[z:zettels?tag=blog/**&timeline&cf]]
 <section id="subscriptionLinks"></section>
 
