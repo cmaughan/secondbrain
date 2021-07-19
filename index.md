@@ -13,7 +13,7 @@ In my day job I work at [NVIDIA](https://nvidia.com) on graphics tools and techn
 - Notes on [[Music Synthesis]]#
 - [[Misc Links]]#
 
-- Just the [[blog|Blog Entries]]#, grouped here by tag...
+- Just the [[Blog|Blog Entries]]#, grouped here by tag...
 [[z:zettels?tag=blog/**&timeline&cf]]
 <section id="subscriptionLinks"></section>
 
