@@ -7,4 +7,3 @@
 
 [[z:zettels?tag=blog/**&timeline&cf]]
 
-
