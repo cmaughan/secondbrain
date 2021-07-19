@@ -5,5 +5,5 @@
 , theme = "teal"
 , editUrl = Some "https://github.com/cmaughan/secondbrain/edit/master/"
 , formats = ["markdown"]
-, plugins = ["neurondhall", "links", "tags", "uptree", "dirtree", "feed"]
+, plugins = ["neurondhall", "links", "tags", "uptree", "feed"]
 }
