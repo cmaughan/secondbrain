@@ -1,4 +1,4 @@
-# Chris Maughan's Second Brain
+# Chris Maughan's Wiki
 
 This is my [digital garden](https://maggieappleton.com/garden-history), [wiki](https://en.wikipedia.org/wiki/Wiki), [second brain](https://maggieappleton.com/basb). It is a place where I post blog entries, useful links and other articles.  It is more for me than for you, but you may find interesting things among the links and articles.  There is a complete list of entries [here](https://chrismaughan.com/secondbrain/impulse.html), which is good for searching.
 

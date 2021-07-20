@@ -7,6 +7,7 @@
 - [Catalogue of Notation through the ages](https://github.com/prathyvsh/notation)
 - [Its Nice That](https://www.itsnicethat.com/)
 - [NodeSoup](https://github.com/olvb/nodesoup)
+- [DataBlocks](https://editor.datablocks.pro/demo) A visual tool for analyzing data
 
 ## Writing
 - [Documenting Software](https://documentation.divio.com/)
@@ -48,6 +49,7 @@ https://raphlinus.github.io/
 
 ## Web Dev
 - [Front End Development Setup](http://marianoguerra.org/posts/a-simple-understandable-production-ready-frontend-project-setup.html)
+- [Scroll](https://scroll.pub/) Is a neat, single page static generator in the style of a newspaper
 
 ## VST
 - [VST](https://labs.spitfireaudio.com/)
