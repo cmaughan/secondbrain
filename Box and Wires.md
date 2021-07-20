@@ -10,7 +10,7 @@ tags:
 
 I have been experimenting with a wire-graph approach to hooking up my synthesizer.  Here's a little video of a work in progress.  The connections between the nodes show the waveforms passing along them; this is suprisingly useful from a debugging point of view!
 
-<iframe width="900" height="315" src="https://www.youtube.com/embed/1pwffO_61vU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="1024" height="560" src="https://www.youtube.com/embed/1pwffO_61vU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <div class="ui section divider"></div>
 <section id="socialMediaLinks"></section>
