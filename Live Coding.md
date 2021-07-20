@@ -13,7 +13,7 @@
 - [Sketch Synth](https://github.com/jeonghopark/SketchSynth-Simple)
 - [Live coding in Rust](https://nannou.cc/)
 - [Kode Life](https://hexler.net/products/kodelife), a great live coding tool for graphics
-- [Future Of Coding projects](https://github.com/pel-daniel/mind-bicycles)
+- [Bicycles for the mind](https://github.com/pel-daniel/mind-bicycles), a list of future of programming projects
 - [Alive Coding](https://s-ol.nu/alivecoding)
 - [Pure Data](http://msp.ucsd.edu/Pd_documentation/), a wire and box visual programming environment
 - [Max MSP](https://cycling74.com/products/max/) is a for-sale product based on Pure Data with a professional UI
