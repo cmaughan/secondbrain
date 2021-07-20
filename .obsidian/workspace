@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "blog/Blog.md",
+            "file": "Blog.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blog/Blog.md",
+                "file": "Blog.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blog/Blog.md",
+                "file": "Blog.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -111,15 +111,15 @@
   },
   "active": "611d2caabb5b86e6",
   "lastOpenFiles": [
+    "Blog.md",
+    "Box and Wires.md",
+    "index.md",
+    "Programming.md",
+    "Misc Links.md",
+    "Live Coding.md",
+    "GraphViz.md",
     "blog/Blog.md",
     "2021-07-19.md",
-    "blog/Regex and finite automata.md",
-    "blog/Thread Pool Waiting.md",
-    "index.md",
-    "faq.md",
-    "static/README.md",
-    "static/synth_perf_view.png",
-    "Music Synthesis/Synth Performance.md",
-    "Music Synthesis/Music Synthesis.md"
+    "blog/Regex and finite automata.md"
   ]
 }
