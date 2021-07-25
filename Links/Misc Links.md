@@ -1,3 +1,7 @@
+## Audio
+- [Envelopes](http://www.martin-finke.de/blog/articles/audio-plugins-011-envelopes/)
+- [Envelope Generators](https://www.earlevel.com/main/2013/06/01/envelope-generators/)
+ 
 ## Random
 - [A Non Linear Writing System](https://s.ai/nlws/)
 - [Newsletter on tech/AI, etc.](https://roadtoreality.substack.com/)

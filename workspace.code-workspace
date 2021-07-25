@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.autoSave": "afterDelay",
+		"workbench.editor.revealIfOpen": true,
+		"autoSnippet.snippets": [
+			{
+				"pattern": "**/\\d{4}-\\d{2}-\\d{2}.md",
+				"snippet": "daily"
+			}
+		]
+	}
+}
