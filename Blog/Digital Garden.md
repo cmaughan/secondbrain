@@ -21,6 +21,8 @@ Visual Studio code and Vim have great plugins for working with Markdown.  In par
 
 [Obsidian](https://obsidian.md) is an alternative editor, for when I want deep search and cool graph visualization of my pages.
 
+At this point my only frustration is links to site images.  I can do bracket links, relative links just fine with great preview in VS Code, but the way github converts links doesn't work, so I need to make the link be 'static/myimage.png' for it to work.  This breaks the preview, which is a minor annoyance.
+
 <div class="ui section divider"></div>
 <section id="socialMediaLinks"></section>
 <div class="ui section divider"></div>

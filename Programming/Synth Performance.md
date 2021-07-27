@@ -17,7 +17,7 @@ I don't believe in premature optimisation, and push work like this towards the e
 As one more interesting data point, you can see that my threadpool on this machine is taking 4.5us to 'wake up' after I schedule the processing onto it, which I think is pretty good - the processing threads have almost all woken up and begun before the end of the function that wakes them; and it doesn't do much else.
 Initially I had a spinning thread waiting on a condition variable, but I realized that my threadpool code is doing the same thing, but without the extra management of maintaining the loop and communication.
 
-![3](../static/synth_perf_workers.png)
+![3](static/synth_perf_workers.png)
 
 ... time passes....
 
