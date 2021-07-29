@@ -1,0 +1,6 @@
+Because I could not stop for Death,
+He kindly stopped for me,
+The Carriage held but just Ourselves,
+And Immortality.
+*Emily Dickinson*
+
