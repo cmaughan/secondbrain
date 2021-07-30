@@ -12,7 +12,7 @@ GraphViz is an awesome way to visualize your code when debugging problems, and i
 Sometimes you need to visualize data structures in your code.  GraphViz is your friend.
 I've been working on a live coding project in my spare time.  This weekend I worked on a parser for the little music language I've been working on.  Here's an example line of code from the language:
 
-c1 | sound(c4 e4 g4).gain(.5)
+`c1 | sound(c4 e4 g4).gain(.5)`
 
 Although the language is not fully specified yet, this is a simple fragment, and enough to get me started.  The language itself is an experiment based on patterns (like Tidal Cycles) - and may well be one of several different experiments I do.  Briefly, this fragment means 'make a list of 3 notes (CEG), and apply .5 gain to it, then 'pipe' it into audio channel 1.
 
