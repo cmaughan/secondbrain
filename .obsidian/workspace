@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Blog.md",
+            "file": "Links/Misc Links.md",
             "mode": "source"
           }
         }
@@ -68,14 +68,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Blog.md",
+                "file": "Links/Misc Links.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -96,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Blog.md",
+                "file": "Links/Misc Links.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -111,15 +111,15 @@
   },
   "active": "611d2caabb5b86e6",
   "lastOpenFiles": [
-    "Blog.md",
-    "Box and Wires.md",
-    "index.md",
+    "Links/Misc Links.md",
+    "Links/Live Coding.md",
+    "Literature/Poetry.md",
+    "Kept/faq.md",
     "Programming.md",
-    "Misc Links.md",
-    "Live Coding.md",
-    "GraphViz.md",
-    "blog/Blog.md",
-    "2021-07-19.md",
-    "blog/Regex and finite automata.md"
+    "index.md",
+    "Programming/Music Synthesis.md",
+    "Blog/Literature/Poetry.md",
+    "Blog/AdventOfCode_Asteroids.md",
+    "Daily/2021-07-31.md"
   ]
 }

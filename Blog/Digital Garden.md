@@ -8,7 +8,7 @@ tags:
 ---
 
 # Digital Garden
-
+ 
 I have simple requirements for a digital garden.  It should be easy to edit using my favourite tools and trivial to deploy.  I want the content in the most simple form it can be, and easy to move around.  I want to edit with Vim keystrokes; and that goes for any document I ever edit!
 
 Without going into details about previous attempts (wordpress, tiddlywiki, hugo, jekyll, etc.), here is a great system I've settled on.
