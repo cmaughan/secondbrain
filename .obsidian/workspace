@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Links/Misc Links.md",
+            "file": "Programming/Synth Performance.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Links/Misc Links.md",
+                "file": "Programming/Synth Performance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Links/Misc Links.md",
+                "file": "Programming/Synth Performance.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -111,15 +111,15 @@
   },
   "active": "611d2caabb5b86e6",
   "lastOpenFiles": [
+    "Programming/Synth Performance.md",
+    "Programming/Music Synthesis.md",
     "Links/Misc Links.md",
     "Links/Live Coding.md",
     "Literature/Poetry.md",
     "Kept/faq.md",
     "Programming.md",
     "index.md",
-    "Programming/Music Synthesis.md",
     "Blog/Literature/Poetry.md",
-    "Blog/AdventOfCode_Asteroids.md",
-    "Daily/2021-07-31.md"
+    "Blog/AdventOfCode_Asteroids.md"
   ]
 }
