@@ -1,6 +1,9 @@
 ## Audio
 - [Envelopes](http://www.martin-finke.de/blog/articles/audio-plugins-011-envelopes/)
 - [Envelope Generators](https://www.earlevel.com/main/2013/06/01/envelope-generators/)
+
+## Biology
+- [Biology By Design Company](https://www.ginkgobioworks.com/)
  
 ## Random
 - [A Non Linear Writing System](https://s.ai/nlws/)
