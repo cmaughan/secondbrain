@@ -1,16 +1,11 @@
 ## Commutative 
 **Addition + Multiplication**
-$$
-5 + 6 = 6 + 5
-
-5 * 6 = 6 * 5
-$$
+$$ 5 + 6 = 6 + 5 $$
+$$ 5 * 6 = 6 * 5 $$
   
 ## Associative 
 **Addition + Multiplication**
-$$
-3 + (4 + 5) = (3 + 4) + 5
-$$
+$$ 3 + (4 + 5) = (3 + 4) + 5 $$
 
 ## Distributive
 **Mult, Left to Right**
@@ -71,4 +66,4 @@ $$ \frac{2}{4} * \frac{3}{8} = \frac{2 * 3}{4 * 8} = \frac{6}{32} $$
 ### Equivalent Fractions
 Multiply top and bottom by the same number, get the same
 $$ \frac{4}{5} \equiv \frac{12}{15}$$
-Reverse the process; divide top and bottom by th same to reduce the fraction to **lowest terms**
+Reverse the process; divide top and bottom by the same to reduce the fraction to **lowest terms**
