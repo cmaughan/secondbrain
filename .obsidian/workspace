@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Programming/Synth Performance.md",
+            "file": "Literature/Poetry.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming/Synth Performance.md",
+                "file": "Literature/Poetry.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming/Synth Performance.md",
+                "file": "Literature/Poetry.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -111,15 +111,15 @@
   },
   "active": "611d2caabb5b86e6",
   "lastOpenFiles": [
+    "Literature/Poetry.md",
+    "Literature/Words.md",
+    "Literature/Quotes.md",
+    "Daily/2021-07-31.md",
     "Programming/Synth Performance.md",
     "Programming/Music Synthesis.md",
     "Links/Misc Links.md",
     "Links/Live Coding.md",
-    "Literature/Poetry.md",
     "Kept/faq.md",
-    "Programming.md",
-    "index.md",
-    "Blog/Literature/Poetry.md",
-    "Blog/AdventOfCode_Asteroids.md"
+    "Programming.md"
   ]
 }
