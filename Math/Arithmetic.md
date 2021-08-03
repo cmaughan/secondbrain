@@ -1,7 +1,7 @@
 ## Commutative 
 **Addition + Multiplication**
 $$
-5 + 6 = 6 + 5  \\
+5 + 6 = 6 + 5  \\ . 
 5 * 6 = 6 * 5
 $$
   
@@ -14,13 +14,13 @@ $$
 ## Distributive
 **Mult, Left to Right**
 $$ 
-3 * (4 + 5) = (3 * 4) + (3 * 5) \\
+3 * (4 + 5) = (3 * 4) + (3 * 5) \\ . 
 3 * (4 - 5) = (3 * 4) - (3 * 5)
 $$
 **Divide, Right to Left**
 $$
-(4 + 5) / 3 = (4 / 3) + (5 / 3) \\
-NOTE:\\
+(4 + 5) / 3 = (4 / 3) + (5 / 3) \\ . 
+NOTE:\\ . 
  3 / (4 +5) != (3 / 4) + (3 / 5)
 $$
 
@@ -30,9 +30,9 @@ $$ 3 * 6 = 18 $$
 3 and 6 are factors.
 For 18, the factors are 1, 2, 3, 9, 6, 18, because:
 $$
-1 * 18 = 18 \\
-2 * 9 = 18
-3 * 6 = 18
+1 * 18 = 18 \\ . 
+2 * 9 = 18 \\  
+3 * 6 = 18  
 $$
 
 ### Primes
@@ -42,19 +42,19 @@ Every whole number can be written as a product of prime factors.
 **Prime Factorization**
 Divide by increasingly large numbers
 $$
-126:\\
-126 / 2 = 63 \\
-63 / 3 = 21 \\
-21 / 3 = 7 \\
-7 / 7 = 1  \\
+126:\\     
+126 / 2 = 63 \\ . 
+63 / 3 = 21 \\ . 
+21 / 3 = 7 \\ . 
+7 / 7 = 1  \\ . 
 = 2 * 2 * 3 * 7
 $$
 
 **Highest Common Factor**
 Lay out the prime factorization:
 $$
- 144 = 2 * 2 * 2 * 2 * 3 * 3 \\
- 66 = 2             * 3      * 11 \\
+ 144 = 2 * 2 * 2 * 2 * 3 * 3 \\ . 
+ 66 = 2             * 3      * 11 \\ . 
  HCF = 2 * 3 = 6
 $$
 > NOTE: Possible to have a single common factor; try 34 & 92
@@ -63,10 +63,10 @@ $$
 Find the lowest number the numbers divide into 
 From above, use all factors from both numbers
 $$
-LCM = 2 * 2 * 2 * 2 * 3 * 3 * 11 = 1584 \\
-Check: \\
-1584 / 144 = 11 
-1584 / 66 = 24
+LCM = 2 * 2 * 2 * 2 * 3 * 3 * 11 = 1584 \\ . 
+Check: \\ . 
+1584 / 144 = 11 \\ . 
+1584 / 66 = 24 \\ . 
 $$
 
 # Fractions
