@@ -39,15 +39,21 @@ $$ 7 / 7 = 1  $$
 $$ = 2 * 2 * 3 * 7 $$
 
 ### Highest Common Factor
+Find the highest number that divides into both numbers
 Lay out the prime factorization:
 $$ 144 = 2 * 2 * 2 * 2 * 3 * 3 $$
 $$ 66 = 2             * 3      * 11 $$
 $$ HCF = 2 * 3 = 6 $$
+Multiply together _all_ common prime factors
+[Good diagram here](https://www.cimt.org.uk/projects/mepres/book8/bk8i2/bk8_2i4.htm)
+
 > NOTE: Possible to have a single common factor; try 34 & 92
 
 ### Lowest Common Multiple
-Find the lowest number the numbers divide into 
+Find the lowest number the numbers divide into
 From above, use all factors from both numbers
+[Good diagram here](https://www.cimt.org.uk/projects/mepres/book8/bk8i2/bk8_2i4.htm)
+
 $$ LCM = 2 * 2 * 2 * 2 * 3 * 3 * 11 = 1584 $$
 Check:
 $$ 1584 / 144 = 11 $$
