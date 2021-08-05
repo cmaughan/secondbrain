@@ -113,3 +113,63 @@ $$ x = 0.\dot{1}8\dot{3} $$
 $$ 1000x - x = 183.\dot{1}8\dot{3} - 0.\dot{1}8\dot{3} $$
 $$ 999x = 183 $$
 $$ x = 183 / 999 $$
+
+## 72. Rational, Irrational and Real Numbers
+Fractions are rationals.  Irrationals don't work as fractions.
+e.g.
+$$ \sqrt{2} \equiv 0.14121...  $$
+$$ \Pi \equiv 3.14159... $$
+Irrational and Rational numbers encompass all Real numbers.
+
+## 78. Powers
+$$ 2^3 \equiv 2 * 2 * 2 $$
+$$ 3^1 \equiv 3 $$
+$$ 3^0 \equiv 1 $$
+
+### Multiplication of same base
+Same base to power, can add:
+$$ 2^3 * 2^6 \equiv 2^9  $$
+
+Different bases to _not_ work:
+$$ 2^4 * 3^5 \neq 2^9 $$
+
+... But different bases with same power:
+$$ 2^4 * 3^4 \equiv 6^4 $$
+i.e. multiply base, keep power
+
+### Division
+$$ 5^6 \div 5^2 \equiv 5^4 $$
+Same as mult; need the same base
+
+### Negative Powers
+$$ 6^{-2} \equiv \frac{1}{6^2} $$
+Because:
+$$ 6^{-2} = 6^0 - 6^{-2} = 6^0 \div 6^2  = \frac{1}{6^2} $$
+
+### Power products
+Multiply the powers
+$$ (5^2)^{3} \equiv 5^6 $$
+
+## 93. Fractional Powers and Roots
+Odd roots are unique
+$$ 6^{1/3} \equiv Unique \equiv 1.817 $$
+Even roots are not unique
+$$ 6^{1/4} \equiv 2\ OR -2 $$
+Odd roots of negative are also negative
+$$ -32^{1/5} \equiv -2 $$
+
+### Integer powers of 10
+$$ 0.01204 * 10^4 \equiv 120.4 $$
+$$ 1.2 * 10^{-2} \equiv 0.012 $$
+
+## 97. Precedence of powers
+Evaluate powers before precedence rules
+
+## 99. Standard Form
+Express any integer as a number between 1 and 10 (**mantissa**)
+$$ 57.3 = 5.73 * 10^1 $$
+Multiply/divide numbers by evaluating mantissas and adding or subtracting powers
+$$ 0.84 * 23000 = (8.4 * 10^-1) * (2.3 * 10^4) = 19.32*10^3 $$
+For add/subtract, make the powers the same:
+$$ 4.72 * 10^3 + 3.648 * 10^4 \equiv 4.72 * 10^3 + 36.48 * 10^3 $$
+$$ (4.72 + 36.48) * 10^3 $$
