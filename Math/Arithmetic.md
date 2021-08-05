@@ -1,3 +1,5 @@
+# Arithmetic
+
 ## Commutative 
 **Addition + Multiplication**
 $$ 5 + 6 = 6 + 5 $$
@@ -38,7 +40,7 @@ $$ 21 / 3 = 7 $$
 $$ 7 / 7 = 1  $$
 $$ = 2 * 2 * 3 * 7 $$
 
-### Highest Common Factor
+## Highest Common Factor
 Find the highest number that divides into both numbers
 Lay out the prime factorization:
 $$ 144 = 2 * 2 * 2 * 2 * 3 * 3 $$
