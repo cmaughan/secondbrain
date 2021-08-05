@@ -106,8 +106,8 @@ Put a dot over first and last number that repeats
 $$ 0.183183 \equiv 0.\dot{1}8\dot{3} $$
 Any unnending repeating form can be a fraction.
 Convert to a fraction:
-$$ 1000x = 0.\dot{1}8\dot{3} 183.183 $$
+$$ 1000x = 183.\dot{1}8\dot{3} $$
 $$ x = 0.\dot{1}8\dot{3} $$
-$$ 1000x - x = 183.183 - 0.183 $$
+$$ 1000x - x = 183.\dot{1}8\dot{3} - 0.\dot{1}8\dot{3} $$
 $$ 999x = 183 $$
 $$ x = 183 / 999 $$

@@ -1,4 +1,4 @@
 # Math
 
 ## Stroud, Engineering Mathematics
-F.1 [[Arithmetic]]
+F.1 [[Arithmetic]]#
