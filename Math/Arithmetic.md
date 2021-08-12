@@ -8,6 +8,7 @@ $$ 5 * 6 = 6 * 5 $$
 ## Associative 
 **Addition + Multiplication**
 $$ 3 + (4 + 5) = (3 + 4) + 5 $$
+$$ 3 * (4 * 5) = (3 * 4) * 5 $$
 
 ## Distributive
 **Mult, Left to Right**
@@ -32,7 +33,7 @@ Two factors, one of which is 1, and the number.  That's a prime
 Every whole number can be written as a product of prime factors.
 
 ## Prime Factorization
-Divide by increasingly large numbers
+Divide by increasingly large prime numbers
 $$ 126: $$
 $$ 126 / 2 = 63 $$
 $$ 63 / 3 = 21 $$
@@ -94,10 +95,12 @@ $$ \frac{2}{4} - \frac{3}{8} \equiv \frac{4}{8} - \frac{3}{8} \equiv \frac{1}{8}
 
 ## 58. Significant Figures
 0.1345 to 2 Significant figures = 0.13
+
 1355 to 2 Significant figures = 1400
 
 ## 61. Decimal Places
 0.0035 to 2 decimal places = 0.0035
+
 0.2356 to 2 decimal places = 0.24A
 
 ### Decimals as Fractions
