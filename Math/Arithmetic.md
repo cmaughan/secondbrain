@@ -94,13 +94,11 @@ Find common denominator, using [LCM](#lcm), or just by figuring out a low number
 $$ \frac{2}{4} - \frac{3}{8} \equiv \frac{4}{8} - \frac{3}{8} \equiv \frac{1}{8} $$
 
 ## 58. Significant Figures
-0.1345 to 2 Significant figures = 0.13
-
+0.1345 to 2 Significant figures = 0.13 \
 1355 to 2 Significant figures = 1400
 
 ## 61. Decimal Places
-0.0035 to 2 decimal places = 0.0035
-
+0.0035 to 2 decimal places = 0.0035 \
 0.2356 to 2 decimal places = 0.24A
 
 ### Decimals as Fractions
