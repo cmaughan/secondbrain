@@ -1,6 +1,6 @@
 ---
 tags:
-    - Astro_GCSE_1
+        - Earth
 ---
 
 # The Earth
@@ -9,12 +9,17 @@ tags:
 - 12,724km **Diameter** (~13Km)
 - **Equatorial** diameter is 42km greater than the **polar**
 - Inclined 23.44&deg; (~23.5) 
-    - Precession; wobble of the axial tilt; 25800 year cycle
+    - Precession; wobble of the axial tilt; 25800 year cycle.  Caused by the obliquitiy of the earth (equatorial bulge) in concert with the gravity of Sun & [[The Moon]]#
     - **axial tilt** or **obliquity**  deviation from the parallel
+    - In 12K years, the North Star will actually be Vega, not Polaris
+![Precession from North](https://upload.wikimedia.org/wikipedia/commons/1/16/Precession_N.gif)
+
+## Celestial Sphere
 - **Celestial equator** - abstract projection of the terrestrial equator into space, and is the base of the equatorial coordinate system.  
 - **Ecliptic** - the plane of earth's orbit around the sun
 - **South Celestial Pole** - the point in the sky about which all the stars seen from the Southern Hemisphere rotate
 - **North Celestial Pole** - the point in the sky about which all the stars seen from the Northern Hemisphere rotate
+- Due to precession, **celestial equator** and **equinoxes** move and the year needs to be noted (the **epoch**)
 
 ![Earth](https://upload.wikimedia.org/wikipedia/commons/6/61/AxialTiltObliquity.png)
 
@@ -32,19 +37,25 @@ tags:
 Lat/Long are angles **subtended** (joined at point) at the center of the earth.  Lat is E/W of Meridian, and N/S of equator
 
 - **Prime Meridian** passes through Greenwich, between N & S pole (agreed in 1884 in Washington DC)
-- **Artic Circle** 66&deg;34' N (66.5&deg;N)
+- **Artic Circle** 66&deg;34' N (66.5&deg;N); at least one day with no sun during winter.
 - **Tropic of Cancer** 23&deg;26' N
-- **Tropic of Capricorn** 23&deg;26' S
-- **Antarctic Circle** 66&deg;34' S (66.5&deg;S)
-- **Spring Equinox** March 21st - Sun over the equator
-- **Summer Solstice** June 21st - Sun over Tropic of Cancer **23.5&deg;N**
-- **Autumnal Equinox** September 23rd - Sun over the equator
-- **Winter Solstice** December 21st - Sun over Tropic of Capricorn **23.5&deg;S**
+- **Tropic of Capricorn** 23&deg;26' S (between Cancer and Capricon, at least one day a year the sun is overhead)
+- **Antarctic Circle** 66&deg;34' S (66.5&deg;S); at least one day with sun all day during winter.
 
 **Arctic** and **Antarctic** circles are the furthest point where you can still see the sun set every day of the year.
 
 ![Lat Long](https://i.pinimg.com/originals/b1/80/c7/b180c7778c9a04dfe9ac6ee613e31e32.png)
 
+- **Spring Equinox** March 21st - Sun over the equator. **Vernal Equinox** - (Latin for spring)
+- **Summer Solstice** June 21st - Sun over Tropic of Cancer **23.5&deg;N**.  **Solstice** - 'Solar Standstill' in Latin
+- **Autumnal Equinox** September 23rd - Sun over the equator
+- **Winter Solstice** December 21st - Sun over Tropic of Capricorn **23.5&deg;S**
+
+In spring the sun rises exactly in the East, sets in the West.  Also in Autumn.  In winter, rises in the SouthEast, sets in the SouthWest, skims the horizon.  Days are shorter.  In Summer the sun rises in the NorthEast and sets in the NorthWest and days are longer.
+
+![Equinox Sun Orbit](http://astro.wsu.edu/worthey/astro/html/im-sky/cel-sphere-2.gif)
+
+Also see [[Sidereal Time]]
 ## Atmosphere
 
 Absorbs harmful radiation, UV and X-radiation, regulates temperature to mean 15&deg; and protects from most meteoroid strikes
@@ -57,9 +68,9 @@ Light pollution - **Skyglow** - a rusty orange haze by urban lighting.
 200 stars in light polluted areas are visible, but 3000 where there is no light pollution
 Light pollution makes the sky brighter than the natural night sky, making it hard to observe faint objects such as galaxies or nebulas.  
 
-> ```(Light pollution) makes the sky brighter/reduces contrast (1) so fainter stars (in the constellation) are not seen (1)```
- 
-> ```{Dark adjustment/adaption of human eye/the aperture of the eye is larger} (1) which {allows more light in/makes the eye more sensitive to light} from faint stars (1)```
+## Seasons
+- The earth is nearer the sun in Winter.  Angle of the earth/suns rays hitting it is what determines temperatures.
+![Orbit Of Earth](https://spaceplace.nasa.gov/seasons/en/aphelion-perihelion-lrg.en.png)
 
 #TBD
 - Visit to Greenwich?

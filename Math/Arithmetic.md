@@ -39,7 +39,7 @@ $$ 126 / 2 = 63 $$
 $$ 63 / 3 = 21 $$
 $$ 21 / 3 = 7 $$
 $$ 7 / 7 = 1  $$
-$$ = 2 * 2 * 3 * 7 $$
+$$ = 2 * 3 * 3 * 7 $$
 
 ## Highest Common Factor
 Find the highest number that divides into both numbers
@@ -158,6 +158,8 @@ Even roots are not unique
 $$ 6^{1/4} \equiv 2\ OR -2 $$
 Odd roots of negative are also negative
 $$ -32^{1/5} \equiv -2 $$
+Even root of negative number cannot be found (yet)
+$$ -3^{1/4} $$
 
 ### Integer powers of 10
 $$ 0.01204 * 10^4 \equiv 120.4 $$
@@ -174,3 +176,64 @@ $$ 0.84 * 23000 = (8.4 * 10^-1) * (2.3 * 10^4) = 19.32*10^3 $$
 For add/subtract, make the powers the same:
 $$ 4.72 * 10^3 + 3.648 * 10^4 \equiv 4.72 * 10^3 + 36.48 * 10^3 $$
 $$ (4.72 + 36.48) * 10^3 $$
+
+### Preferred Standard Form
+$$ 5.2746 * 10^4 $$
+Powers of 3 for 'preferred'; i.e. up to 3 digits before the point
+$$ 52.746 * 10^3 $$
+ENG key on the Casio calculator \
+SCI mode is for working in standard form
+
+### Example in standard
+$$ (4.72 * 10^2) * (8.36 * 10^5) = 39.4592 * 10^7 = 3.94592 * 10^8 $$
+### And in preferred standard:
+$$ 394.592 * 10^6 $$
+
+## 106. Error check
+Convert to standard form, estimate:
+$$ 800.120 * 0.007953 \approx 8 * 10^2 * 8 * 10^-3 = 64 * 10^-1 = 6.4 $$
+
+## 107. Accuracy
+The smallest significant figures is all you can expect from an answer based on measured values.
+$$ 19.1 * 0.0053 \div 13.345 = 0.00758561 $$ 
+in 2 figures: 0.0076 
+
+## 112. Denary (base 10)
+$$ 10^3 10^2 10^1 10^0 . 10^{-1} 10^{-2} 10^{-3} $$
+
+## 113. Binary (base 2)
+$$ 2^3 2^2 2^1 2^0 . 2^{-1} 2^{-2} 2^{-3} $$
+
+## 114 Octal (base 8)
+$$ 8^3 8^2 8^1 8^0 . 8^{-1} 8^{-2} 8^{-3} $$
+
+## 116 Duodecimal (base 12)
+Extra symbols X and // ? How to do this in latex? 
+$$ 12^3 12^2 12^1 12^0 . 12^{-1} 12^{-2} 12^{-3} $$
+
+## 117 Hexadecimal (base 16)
+Extra symbols ABCDEF
+$$ 16^3 16^2 16^1 16^0 . 16^{-1} 16^{-2} 16^{-3} $$
+
+## 120 Alternative method
+Take each digit, multiply by the base, add to the next digit and multiply again, etc.  Just add the final number for the decimal point.
+For the bit after the point, multiply by the minus power of decimal digits.
+See 120 in stroud for a good diagram.
+
+## 130 Change from Denary to a new base
+Succesively divide by the base of the new number, and keep the remainder, then read the remainders in reverse.
+12 in Octal
+$$ 12 / 8 = 4, 1 / 8 = 1  (14) $$
+
+## 133 Change Denary decimal
+This time multiply the decimal part by th new base, then discard the bit before the decimal.
+In base 8
+$$ 0.526 * 8 = 4.208, .208 * 8 = 1.664.... $$
+The answer is 0.41..
+
+## 135 Convert both parts
+We do the whole number part (130) and then the decimal part (133) and then squash them together
+
+## 137 Octals for binary and hex
+Convert to Octal first, then convert each digit to 3-entry binary digits: 5 = 101.  That's the binary equivalent.  Then regroup the binary digits working outward from the center point into groups of 4 to get the hex digits.
+The same process works backwards from octal to hex/binary (147)
