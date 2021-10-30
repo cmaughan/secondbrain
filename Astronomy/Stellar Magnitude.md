@@ -25,18 +25,16 @@ N.R. Pogson:
 
 ## Flux
 **Total flow light energe per unit area**
-$$ Wm^{-2} $$
-OR
-$$ Js^{-1}m^{-2} $$
+$Wm^{-2}$ OR $Js^{-1}m^{-2}$
 
-* Apparent mag relation (Ratio of fluxes)**
+**Apparent mag relation (Ratio of fluxes)**
 $$ \frac{Fm}{Fn} = 2.512^{n-m} \tag{Eq 2.1} $$
-        Note: Ratio = 100 == n-m of 5 (see above N.R. Pogson)
+Note: Ratio = 100 == n-m of 5 (see above N.R. Pogson)
 
 **Pogson's Relation**
+Difference in apparent magnitudes
 $$ m - n = -2.5 * \log_{10}{\frac{Fm}{Fn}} \tag{Eq 2.2} $$ 
 $$ 1 - 6 = 100 \tag{As expected}$$
-        Difference in apparent magnitudes
 
 **Zero point of apparent Mag**
 For a star of m = 0, and Flux Fo, apparent mag of any star is:
