@@ -17,5 +17,6 @@ Timescale based on the rotation of the Earth relative to the fixed stars.  23h 5
 - Stars will appear at the same point on the same **sidereal** time
 - **Solar time** follows the sun, sidereal time follows the stars
 - The March equinox itself precesses slowly westward relative to the fixed stars, completing one revolution in about 25,800 years.  Handy video of the wobble here, helping visualize this: [Vernal Equinox Precession](https://youtu.be/ELdME2bU-LA?t=22)
-
+- Is actually 0.0084 seconds shorter than the stellar day, due to precession
 - More on sidereal time and calculating it: [Sidereal Time](https://squarewidget.com/astronomical-calculations-sidereal-time/)
+

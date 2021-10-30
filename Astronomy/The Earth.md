@@ -72,6 +72,16 @@ Light pollution makes the sky brighter than the natural night sky, making it har
 - The earth is nearer the sun in Winter.  Angle of the earth/suns rays hitting it is what determines temperatures.
 ![Orbit Of Earth](https://spaceplace.nasa.gov/seasons/en/aphelion-perihelion-lrg.en.png)
 
+From: [Ecliptic](https://www.austincc.edu/jheath/Stellar/Hand/ccord.htm)
+- The distance of the Celestial Equator from the zenith is equal to your latitude. If the distance is south of the zenith, you are north of the equator, and vice versa.
+- The altitude (distance above the horizon) of the NCP is equal to your latitude north of the equator; ditto for the SCP in the Earth's southern hemisphere.
+- The circumpolar stars are within (latitude) degrees of the celestial pole. They have declinations greater than +(90-latitude) degrees for the northern hemisphere.
+- The southernmost star visible from your location in the northern hemisphere is at declination -(90-latitude) degrees. The opposite situation applies in the southern hemisphere.
+- Those stars with declinations equal to your latitude pass directly overhead during the night. Logical sense, since stars are measured the same way declination is.
+
+
+
+
 #TBD
 - Visit to Greenwich?
 - More info on Lat/Long
