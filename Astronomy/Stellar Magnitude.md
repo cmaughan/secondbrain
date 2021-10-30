@@ -9,14 +9,24 @@ tags:
 # Stellar Magnitude
 
 ## Logs Refresher
-Log10 (x) - Count the zeros $\log_{10}(100) == 2$
-$$ \log{100} = 2 $$
+$$ \log_{10}x\text{ : Count the zeros} $$
+$$ \log_{10}(100) == 2 $$
 $$ 10^x = Antilog $$
+$$ 10^2 = 100 $$
 
 ## Stellar Magnitudes
-Hipparchus.  The smaller the value, the brighter the object.  Sirius = $-1.4$ (very bright).  Neptune = $7.62$ (much less bright).  This is the 'apparent magnitude', how they appear.  The Sun is $-26$.  Naked eye range is 1 to 6.  Best resolution of telescope we have is about 30.
+Hipparchus.  The smaller the value, the brighter the object.  
+
+Sirius = $-1.4$ (very bright)
+
+Neptune = $7.62$ (much less bright)
+
+The Sun is $-26$.
+
+This is the 'apparent magnitude', how they appear.  Naked eye range is 1 to 6.  Best resolution of telescope we have is about 30.
 
 ![Magnitude](https://earthsky.org/upl/2017/03/apparent-magnitude-scale-e1490133992818.jpg)
+
 [Wikipedia - Apparent Magnitude](https://en.wikipedia.org/wiki/Apparent_magnitude)
 
 **N.R. Pogson: For 2 objects, 5 magnitude difference corresponds to a factor of 100 brightness**
@@ -78,6 +88,9 @@ $$ m - M = 5 \log_{10}10 - 5 $$
 $$ m - M = 0 $$
 Therefore: at 10pc M == m
 
+## Stellar Colors
+[Brittanica Article](https://www.britannica.com/science/star-astronomy/Classification-of-spectral-types)
+
 ## Worked Examples
 Distance to Vega, given m = 0.03, M = 0.58
 
@@ -87,7 +100,7 @@ $$ 4.45 = 5 log_{10}d $$
 $$ 10^0.89 = 7.76 pcs $$
 == 25 Lightyears (distance to Vega)
 
-# References
+## References
 <iframe
     width="640"
     height="480"
