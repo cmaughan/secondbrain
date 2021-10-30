@@ -86,3 +86,6 @@ $$ -0.55 = 5\log_{10}d - 5 $$
 $$ 4.45 = 5 log_{10}d $$
 $$ 10^0.89 = 7.76 pcs $$
 == 25 Lightyears (distance to Vega)
+
+# References
+![YouTube Tutorial](https://www.youtube.com/watch?v=RmuklXC94Cs)
