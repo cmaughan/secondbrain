@@ -78,7 +78,7 @@ $$ m - M = 5 \log_{10}10 - 5 $$
 $$ m - M = 0 $$
 Therefore: at 10pc M == m
 
-# Worked Examples
+## Worked Examples
 Distance to Vega, given m = 0.03, M = 0.58
 
 $$ 0.03 - 0.58= 5 \log_{10}d - 5 $$
@@ -88,4 +88,12 @@ $$ 10^0.89 = 7.76 pcs $$
 == 25 Lightyears (distance to Vega)
 
 # References
-![YouTube Tutorial](https://www.youtube.com/watch?v=RmuklXC94Cs)
+<iframe
+    width="640"
+    height="480"
+    src="https://www.youtube.com/embed/RmuklXC94Cs"
+    frameborder="0"
+    allow="autoplay; encrypted-media"
+    allowfullscreen
+>
+</iframe>
