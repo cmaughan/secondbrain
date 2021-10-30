@@ -42,7 +42,12 @@ Note: Ratio = 100 == n-m of 5 (see above N.R. Pogson)
 ## Pogson's Relation
 Difference in apparent magnitudes:
 $$ m - n = -2.5 * \log_{10}{\frac{Fm}{Fn}} \tag{Eq 2.2} $$ 
-$$ 1 - 6 = 100 \tag{As expected}$$
+OR
+$$ \frac{F_m}{F_n} = 10^{-0.4*(m-n)} \tag{Eq 2.2.1}$$
+
+$$ \text{For Eq 2.2: } 1 - 6 = 100 \tag{As expected}$$
+
+For Flux and ratio calculation, formula can be generalized:
 
 ## Zero point of apparent Mag
 For a star of m = 0, and Flux Fo, apparent mag of any star is:
@@ -73,6 +78,8 @@ e.g. 1/3 distance ratio == 9/1 Flux ratio
 ## Absolute Magnitude
 Absolute magnuitude, similar to Pogson, but with absolute Luminosity ratio
 $$ M - N = -2.5 * \log_{10}\frac{L_M}{L_N} $$
+OR
+$$ \frac{L_m}{L_n} = 10^{-0.4*(M-N)} \tag{Eq 2.7.1}$$
 
 At 10pc from star, Absolute Mag == Apparent Mag
 
