@@ -106,6 +106,7 @@
   },
   "active": "611d2caabb5b86e6",
   "lastOpenFiles": [
+    "index.md",
     "Literature/Poetry.md",
     "Literature/Words.md",
     "Literature/Quotes.md",
@@ -114,7 +115,6 @@
     "Programming/Music Synthesis.md",
     "Links/Misc Links.md",
     "Links/Live Coding.md",
-    "Kept/faq.md",
-    "Programming.md"
+    "Kept/faq.md"
   ]
 }

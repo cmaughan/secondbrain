@@ -117,3 +117,7 @@ $$ 10^0.89 = 7.76 pcs $$
     allowfullscreen
 >
 </iframe>
+
+## Tools
+[Magnitude Calculator](https://www.1728.org/magntudj.htm)
+[Mag and Luminosity](http://www.calctool.org/CALC/phys/astronomy/star_magnitude/)
