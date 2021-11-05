@@ -16,6 +16,10 @@
 - [NodeSoup](https://github.com/olvb/nodesoup)
 - [DataBlocks](https://editor.datablocks.pro/demo) A visual tool for analyzing data
 
+### Mathematics
+- [Curves and Surfaces](https://ciechanow.ski/curves-and-surfaces/)
+- [Beautiful Symmetry](http://www.beautifulsymmetry.onl/?pageName=road-map)
+
 ## Writing
 - [Documenting Software](https://documentation.divio.com/)
 - [Networked Document from Roam Research](https://roamresearch.com/)
