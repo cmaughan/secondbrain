@@ -104,7 +104,7 @@ Distance to Vega, given m = 0.03, M = 0.58
 $$ 0.03 - 0.58= 5 \log_{10}d - 5 $$
 $$ -0.55 = 5\log_{10}d - 5 $$
 $$ 4.45 = 5 log_{10}d $$
-$$ 10^0.89 = 7.76 pcs $$
+$$ 10^{0.89} = 7.76 pcs $$
 == 25 Lightyears (distance to Vega)
 
 ## References

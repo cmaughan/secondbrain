@@ -60,12 +60,16 @@ No polarisation of the radiation.
 ## Planck Equation
 Wien approx, the left side at shorter wavelength. Rayleigh-Jeans approximation right side longer wavelengths.
 
+![Flux and Wavelength](http://hyperphysics.phy-astr.gsu.edu/hbase/imgmod/bbrc6b.gif)
+
 ## The Wien Displacement Law
 
 Peak in the curve linked to temperature.  Wien's Law:
 $$ \lambda_{max}T = constant = 2.8978 * 10^{-3}mK \tag{Eq 3.5} $$
 
 $\lambda_{max}$ is the wavelength of max intensity radiation, T is the temperature.
+
+Cooler objects produce radiation which peaks at longer wavelengths (redder colors), hotter objects produce radiation which peaks at shorter wavelengths (bluer colors).
 
 ## Sefan-Boltzmann Law
 Therefore: Flux is related to temperature.
@@ -90,3 +94,14 @@ Ultraviolet (hard to measure through atmosphere)
 Blue (visual)
 Visible (visual)
 We measure apparent magnitude m_u, m_b, m_v.  Shorthand UBV.
+
+Comparing different filter measurements gives a different in magnitudes called the **color index** The more negative the index, the greater the ratio of short to long wavelength and the higher temperature.
+
+(U-B) and (B-V) are color indices.  U,V,B are 0 for Vega, point of reference (Vega is 10000K - main sequence A0)
+
+U ---- B ----- V Wavelength
+
+(U-B) = (B-V) = 0 : A0, 10000K 
+
+Hotter = negative
+Colder = positive
