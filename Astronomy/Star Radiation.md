@@ -51,4 +51,42 @@ T is temperature
 A black body is a perfect emitter and absorber of radiation.
 [Black Body Radiation - Wikipedia](https://en.wikipedia.org/wiki/Black-body_radiation)
 
-Radiation is in theo
+Radiation is in thermodynamic equilibrium with matter.  No flow between matter and radiation.  So the body temperature describes the radiation.
+
+Radiation is isotropic flowing in all directions.  No net flow of energy.
+
+No polarisation of the radiation.
+
+## Planck Equation
+Wien approx, the left side at shorter wavelength. Rayleigh-Jeans approximation right side longer wavelengths.
+
+## The Wien Displacement Law
+
+Peak in the curve linked to temperature.  Wien's Law:
+$$ \lambda_{max}T = constant = 2.8978 * 10^{-3}mK \tag{Eq 3.5} $$
+
+$\lambda_{max}$ is the wavelength of max intensity radiation, T is the temperature.
+
+## Sefan-Boltzmann Law
+Therefore: Flux is related to temperature.
+$$ F = \sigma T^4 Wm^{-2} \tag{Eq 3.6} $$
+$\sigma = 5.67*10^{-8} W m^{-2}K^{-4}$ is Stefan-Boltzmann constant
+
+Luminosity of a star of Temperature T and Radius R:
+$$ L = 4 \Pi R^2 \sigma T^4 $$
+
+Where $4 \Pi R^2$ is the surface area of a star
+
+For the Sun. Add Radius = $6.96 * 10^8$, Temp = $5800\degree K$
+$$ L = 4 \Pi * (6.96 * 10^8)^2 * (5.67*10^{-8}) * 5800^4 $$
+$$ L = 3.9 * 10^{26}W $$
+
+## Photometry
+Filtering the wavelengths and measuring the flux near the peak of the spectrum.  Known as stellar photometry.
+
+## UBV Photometric system
+Three filters; U, B, V.  U=360nm, B=440nm, V=550nm
+Ultraviolet (hard to measure through atmosphere)
+Blue (visual)
+Visible (visual)
+We measure apparent magnitude m_u, m_b, m_v.  Shorthand UBV.

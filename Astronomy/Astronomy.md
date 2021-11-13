@@ -6,5 +6,6 @@
 
 [[Stellar Magnitude]]#
 
-[[Jupiter]]#
+[[Star Radiation]]#
 
+[[Jupiter]]#
