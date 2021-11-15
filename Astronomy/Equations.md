@@ -30,3 +30,5 @@ $$ F = \sigma T^4 Wm^{-2} \tag{Eq 3.6} $$
 $$ \sigma = 5.67*10^{-8} W m^{-2}K^{-4}  \text{Stefan-Boltzmann constant} $$
 
 $$ L = 4 \Pi R^2 \sigma T^4 $$
+
+8-M
