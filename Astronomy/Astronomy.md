@@ -6,6 +6,10 @@
 
 [[Stellar Magnitude]]#
 
+[[Hertzsprung Russell]]#
+
 [[Star Radiation]]#
+
+[[Spectroscopy]]#
 
 [[Jupiter]]#

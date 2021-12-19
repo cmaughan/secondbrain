@@ -118,3 +118,4 @@ Colder = positive
 
 3: Cool gas in front of continuum produces absorption line spectrum.  Dark lines in the spectrum are at the same place as emission spectrum for the gas.
 
+![Kirchhoff Laws](https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Kirchhof_laws.svg/2560px-Kirchhof_laws.svg.png)

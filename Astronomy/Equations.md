@@ -52,8 +52,14 @@ Ratio of Fluxes
 $$ \frac{F_0}{F_1} = \frac{T_0^4}{T_1^4} \tag{p.125} $$
 
 Rydberg Constant
-$$ R = 1.097*10^{7}m^{-1} $$
+$$ R = 1.097*10^{7}m^{-1} \tag{Eq. 5.2} $$
 
 Balmer's formula (wavelength of spectral lines)
 $$ \frac{1}{\lambda} = R(\frac{1}{4} - \frac{1}{n^2}) $$
 
+Quantised momentum of electron
+$$nh = n \frac{h}{2\Pi} = mvr $$
+
+Energy level of orbits:
+$$ E_n = -R_H (\frac{1}{n^2}) \tag{Eq. 5.1} $$
+_R is the Rydberg Constant_
