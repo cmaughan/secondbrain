@@ -85,6 +85,10 @@ For the Sun. Add Radius = $6.96 * 10^8$, Temp = $5800\degree K$
 $$ L = 4 \Pi * (6.96 * 10^8)^2 * (5.67*10^{-8}) * 5800^4 $$
 $$ L = 3.9 * 10^{26}W $$
 
+Also for the sun, Flux:
+
+$$ F = \frac{L_o}{4\Pi R_o^2} $$
+
 ## Photometry
 Filtering the wavelengths and measuring the flux near the peak of the spectrum.  Known as stellar photometry.
 
@@ -105,3 +109,12 @@ U ---- B ----- V Wavelength
 
 Hotter = negative
 Colder = positive
+
+## Kirchhoff's Laws
+
+1: Hot opaque body, such as black body or hot dense gas produced continuous spectrum
+
+2: Hot transparent gas produces emission line spectrum agains a dark background
+
+3: Cool gas in front of continuum produces absorption line spectrum.  Dark lines in the spectrum are at the same place as emission spectrum for the gas.
+
