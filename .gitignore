@@ -1,4 +1,5 @@
 .neuron
 .DS_Store
 *.csv
+tmp
 __pycache__
