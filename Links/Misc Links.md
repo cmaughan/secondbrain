@@ -78,3 +78,12 @@ https://thesephist.com/posts/tools/
 - [LaunchPad](https://d2xhy469pqj8rc.cloudfront.net/sites/default/files/novation/downloads/4080/launchpad-programmers-reference.pdf)
 - [Programming](https://homepages.abdn.ac.uk/d.j.benson/pages/dx7/manuals/prgrmdx7.pdf)
 - [Group Discussion on Fine Tune/Corse](https://yamahadx.yahoogroups.narkive.com/gS4pivQC/question-04-detune)
+
+# Machine Setup / tools
+- [Command Prompt](https://github.com/starship/starship)
+
+# Rust
+- [Rust Project Structure](https://dev.to/ghost/rust-project-structure-example-step-by-step-3ee)
+- [Concurrency Patterns](https://ferrous-systems.com/blog/embedded-concurrency-patterns/#cooperative-tasks-asyncawait)
+- [Rust Shared Memory and Channels](https://www.worthe-it.co.za/blog/2017-07-11-a-rusty-tale-of-shared-memories-and-passed-messages-2.html)
+- [Atomics + Spinlock](https://blog.rustbr.org/en/understanding-atomics/)
