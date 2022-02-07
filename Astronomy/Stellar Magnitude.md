@@ -95,6 +95,10 @@ $$ m - M = 5 \log_{10}10 - 5 $$
 $$ m - M = 0 $$
 Therefore: at 10pc M == m
 
+Rearranged for M:
+$$ M = m + 5 - 5 \log_{10}(d) $$
+Link to Good [Example Calculations](https://www.1728.org/magntudj.htm)
+
 ## Stellar Colors
 [Brittanica Article](https://www.britannica.com/science/star-astronomy/Classification-of-spectral-types)
 

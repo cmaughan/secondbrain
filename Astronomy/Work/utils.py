@@ -1,15 +1,16 @@
 from typing import Tuple
 import math
+import numpy as np
 
-def __clamp(value: float, min_val: int = 0, max_val: int = 255) -> int:
-    if math.isnan(value):
-        value = 0
+def clamp(value, min_val = 0.0, max_val = 255.0) -> float:
+    if np.isnan(value):
+        return 0.0
     # use rounding to better represent values between max and min
-    return int(round(max(min(value, max_val), min_val)))
+    return float(round(max(min(value, max_val), min_val)))
 
 #https://github.com/esemeniuc/kelvin_rgb/blob/master/kelvin_rgb/__init__.py
 # see http://www.zombieprototypes.com/?p=210 for plot and calculation of coefficients
-def k_to_rgb(kelvin: int) -> Tuple[int, int, int]:
+def k_to_rgb(kelvin: int) -> Tuple[float, float, float]:
     temperature = kelvin / 100.0
 
     if temperature < 66.0:
@@ -35,4 +36,4 @@ def k_to_rgb(kelvin: int) -> Tuple[int, int, int]:
         blue = temperature - 10
         blue = -254.76935184120902 + 0.8274096064007395 * blue + 115.67994401066147 * math.log(blue)
 
-    return [__clamp(red, 0, 255) / 255.0, __clamp(green, 0, 255) / 255.0, __clamp(blue, 0, 255) / 255.0]
+    return [clamp(red, 0, 255) / 255.0, clamp(green, 0, 255) / 255.0, clamp(blue, 0, 255) / 255.0]
