@@ -87,13 +87,18 @@ https://thesephist.com/posts/tools/
 - [Concurrency Patterns](https://ferrous-systems.com/blog/embedded-concurrency-patterns/#cooperative-tasks-asyncawait)
 - [Rust Shared Memory and Channels](https://www.worthe-it.co.za/blog/2017-07-11-a-rusty-tale-of-shared-memories-and-passed-messages-2.html)
 - [Atomics + Spinlock](https://blog.rustbr.org/en/understanding-atomics/)
-
+- [Modules](https://i.redd.it/1yy98srxyvx81.png)
+ 
 ## Libraries
 - [ZeroMQ](https://zeromq.org)
 - [Cap'n'Proto](https://capnproto.org)
 
 ## Data Vis
 - [Observable Collection](https://observablehq.com/)
+- [UK Energy Dashboard](https://www.gridwatch.templar.co.uk/)
 
 ## pandas
 - [style tables](https://pandas.pydata.org/pandas-docs/stable/user_guide/style.html)
+
+## Rust 
+- [Useful tips](https://www.lurklurk.org/effective-rust/use-types.html)
