@@ -15,6 +15,7 @@ In my day job I work at [NVIDIA](https://nvidia.com) on graphics tools and techn
 - [[Quotes]]#
 - [[Astronomy]]#
 - [[Math]]#
+- [[Books]]#
 
 - Just the [[Blog|Blog Entries]]#, grouped here by tag...
 [[z:zettels?tag=blog/**&timeline&cf]]
