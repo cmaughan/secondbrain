@@ -58,6 +58,11 @@
 - The Stand
 - Red Dwarf, Backwards
 - Girl with all the Gifts
+- Shikasta
+- City (Simak)
+- Long Afternoon of Earth
+- Blood Music (Greg Bear)
+- The Dying Earth (Jack Vance)
  
 # ReReads
 - Dune
