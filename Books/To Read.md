@@ -1,7 +1,7 @@
 # Novels
 - Spin (Wilson)
 - Enders Game
-- Speaker for the dead
+- Speaker for the Dead
 - Fire upon the Deep
 - Project Hail Mary
 - Shadow of the Torturer
@@ -13,7 +13,7 @@
 - Replay (Grimwood)
 - The Mote in Gods Eye
 - Childhood's End
-- Excession, Use of Weapons, Transition, Matter, Hydrogen Sonata
+- Excession, Use of Weapons, Transition, Matter, Hydrogen Sonata (Banks)
 - Contact
 - The Chrysalids
 - The Lathe of Heaven
@@ -35,12 +35,11 @@
 - Dark Matter
 - Neverness (Zindell)
 - Altered Carbon
-- Enters Game
 - Ender in Exile
 - Enders Shadow
 - Terminal World (Reynolds)
 - The Dreaming Void 
-- Shift (Howey)
+- Shift, Follow up of Wool (Howey)
 - Lord of Light
 - Dune Messiah
 - 1984
@@ -64,21 +63,16 @@
 - Blood Music (Greg Bear)
 - The Dying Earth (Jack Vance)
  
-# ReReads
+# To Read Again
 - Dune
 - Stark Ben Elton
 - Red Dwarf Ben Elton
 - Ancillary Justice
-- Culture Series (Consider Phlebas, Player of Games, Inversions)
+- Culture Series as part of  the above: (Consider Phlebas, Player of Games, Inversions)
 - Revelation Space (Revelation Space, Chasm city)
 - Foundation, Foundation & Empire
 
 # Shorts
-1. Lachrimosa
+1. Last log of the Lachrimosa
 2. I Have no mouth and I must scream
 
-# Read
-Spares
-
-# Read in 2022
-- Blindsight
