@@ -1,4 +1,6 @@
-# Novels
+# To Read
+
+## Novels
 - Spin (Wilson)
 - Enders Game
 - Speaker for the Dead
@@ -63,7 +65,7 @@
 - Blood Music (Greg Bear)
 - The Dying Earth (Jack Vance)
  
-# To Read Again
+## To Read Again
 - Dune
 - Stark Ben Elton
 - Red Dwarf Ben Elton
@@ -72,7 +74,7 @@
 - Revelation Space (Revelation Space, Chasm city)
 - Foundation, Foundation & Empire
 
-# Shorts
+## Shorts
 1. Last log of the Lachrimosa
 2. I Have no mouth and I must scream
 
