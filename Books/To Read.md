@@ -1,23 +1,21 @@
 # To Read
 
 ## Novels
-- Spin (Wilson)
 - Enders Game
+- Ender in Exile
+- Enders Shadow
+- Pushing Ice
 - Speaker for the Dead
 - Fire upon the Deep
+- A Deepness in the Sky
+- The Mote in Gods Eye
 - Project Hail Mary
 - Shadow of the Torturer
-- Pushing Ice
 - Great North Road
 - Earth Abides
-- Farenheight 451
 - Man in the High Castle
-- Replay (Grimwood)
-- The Mote in Gods Eye
 - Childhood's End
-- Excession, Use of Weapons, Transition, Matter, Hydrogen Sonata (Banks)
 - Contact
-- The Chrysalids
 - The Lathe of Heaven
 - Snow Crash
 - Anathem
@@ -31,18 +29,14 @@
 - World War Z
 - Station Eleven
 - Never Let Me Go
-- A Deepness in the Sky
 - 2001 Space Oddysy
 - Jurrasic Park
 - Dark Matter
 - Neverness (Zindell)
 - Altered Carbon
-- Ender in Exile
-- Enders Shadow
 - Terminal World (Reynolds)
-- The Dreaming Void 
+- The Dreaming Void
 - Shift, Follow up of Wool (Howey)
-- Lord of Light
 - Dune Messiah
 - 1984
 - Cloud Atlas
@@ -64,13 +58,13 @@
 - Long Afternoon of Earth
 - Blood Music (Greg Bear)
 - The Dying Earth (Jack Vance)
- 
+
 ## To Read Again
 - Dune
 - Stark Ben Elton
 - Red Dwarf Ben Elton
 - Ancillary Justice
-- Culture Series as part of  the above: (Consider Phlebas, Player of Games, Inversions)
+- Culture Series as part of  the above: (Consider Phlebas, Player of Games, Inversions, Excession, Use of Weapons, Transition, Matter, Hydrogen Sonata)
 - Revelation Space (Revelation Space, Chasm city)
 - Foundation, Foundation & Empire
 
